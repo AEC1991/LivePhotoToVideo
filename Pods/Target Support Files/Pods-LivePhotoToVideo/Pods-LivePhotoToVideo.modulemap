@@ -1,0 +1,6 @@
+framework module Pods_LivePhotoToVideo {
+  umbrella header "Pods-LivePhotoToVideo-umbrella.h"
+
+  export *
+  module * { export * }
+}
